@@ -1,0 +1,7 @@
+sajjad,28,T-1,dr.daood,8000.0,10:00am-12:00pm,not checked,lahore
+akbar,24,T-2,dr.shahbaz,1000.0,10:00am-12:00pm,not checked,karachi
+bahuballi,22,T-3,dr.qasam,9000.0,10:00am-12:00pm,not checked,mandi
+sulman,29,T-4,dr.mubashar,8000.0,10:00am-12:00pm,not checked,gujrat
+Ali,19,T-5,DR.Daood,1000.0,12:00pm-3:00pm,not checked,Karachi
+zain,45,T-6,shahbaz ali,5500.0,9:00am,not checked,karachi
+SULMAN,19,T-7,daood ali,8000.0,10:00am-12:00pm,not available,phalia

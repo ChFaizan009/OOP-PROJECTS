@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" 
+	xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<servlet>
+		<servlet-name>TutorInsert</servlet-name>
+		<servlet-class>TutorInsert</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>TutorInsert</servlet-name>
+		<url-pattern>/TutorInsert</url-pattern>
+	</servlet-mapping>
+
+<servlet>
+		<servlet-name>CourseInsert</servlet-name>
+		<servlet-class>CourseInsert</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>CourseInsert</servlet-name>
+		<url-pattern>/CourseInsert</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>BatchInsert</servlet-name>
+		<servlet-class>BatchInsert</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>BatchInsert</servlet-name>
+		<url-pattern>/BatchInsert</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>custRegServlet</servlet-name>
+		<servlet-class>custRegServlet</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>custRegServlet</servlet-name>
+		<url-pattern>/custRegServlet</url-pattern>
+	</servlet-mapping>
+<servlet>
+		<servlet-name>payInserts</servlet-name>
+		<servlet-class>payInserts</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>payInserts</servlet-name>
+		<url-pattern>/payInserts</url-pattern>
+	</servlet-mapping>
+<servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>LoginServlet</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+		<servlet-name>cust_Modify</servlet-name>
+		<servlet-class>cust_Modify</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>cust_Modify</servlet-name>
+		<url-pattern>/cust_Modify</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>cust_Modify1</servlet-name>
+		<servlet-class>cust_Modify1</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>cust_Modify1</servlet-name>
+		<url-pattern>/cust_Modify1</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>tutor_Modify</servlet-name>
+		<servlet-class>tutor_Modify</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>tutor_Modify</servlet-name>
+		<url-pattern>/tutor_Modify</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>tutor_Modify1</servlet-name>
+		<servlet-class>tutor_Modify1</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>tutor_Modify1</servlet-name>
+		<url-pattern>/tutor_Modify1</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>batch_Modify</servlet-name>
+		<servlet-class>batch_Modify</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>batch_Modify</servlet-name>
+		<url-pattern>/batch_Modify</url-pattern>
+	</servlet-mapping>
+
+	
+	<servlet>
+		<servlet-name>course_Modify</servlet-name>
+		<servlet-class>course_Modify</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>course_Modify</servlet-name>
+		<url-pattern>/course_Modify</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>InsertTest</servlet-name>
+		<servlet-class>InsertTest</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>InsertTest</servlet-name>
+		<url-pattern>/InsertTest</url-pattern>
+	</servlet-mapping>
+
+<servlet>
+		<servlet-name>AddToCart</servlet-name>
+		<servlet-class>AddToCart</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>AddToCart</servlet-name>
+		<url-pattern>/AddToCart</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>CalcBill</servlet-name>
+		<servlet-class>CalcBill</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>CalcBill</servlet-name>
+		<url-pattern>/CalcBill</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>UpdateCart</servlet-name>
+		<servlet-class>UpdateCart</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>UpdateCart</servlet-name>
+		<url-pattern>/UpdateCart</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>itemaddServlet</servlet-name>
+		<servlet-class>itemaddServlet</servlet-class>
+	</servlet>
+<servlet-mapping>
+		<servlet-name>itemaddServlet</servlet-name>
+		<url-pattern>/itemaddServlet</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+
+        <welcome-file>home.jsp</welcome-file>
+	
+    </welcome-file-list>
+	
+	
+</web-app>

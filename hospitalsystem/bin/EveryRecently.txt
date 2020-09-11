@@ -1,0 +1,46 @@
+
+                 DATE               ::           WORK           ::	   PERSON
+
+		Thu Jun 21 13:43:00 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Mon Jun 25 12:55:12 PKT 2018::		DELETE NURSES		::		awais
+
+		Thu Jun 28 06:20:44 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 13:19:22 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 17:25:33 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 17:26:15 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 17:26:54 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 17:27:18 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Thu Jun 28 17:28:24 PKT 2018::		ADD DOCTORS		::		awais
+
+		Thu Jun 28 17:29:44 PKT 2018::		DELETE NURSES		::		awais
+
+		Thu Jun 28 17:31:38 PKT 2018::		DELETE TRANSPORT		::		awais
+
+		Thu Jun 28 17:32:37 PKT 2018::		DELETE PATIENTS		::		awais
+
+		Thu Jun 28 17:34:31 PKT 2018::		DELETE ROOMS		::		awais
+
+		Thu Jun 28 17:35:36 PKT 2018::		DELETE EMPLOYEES		::		awais
+
+		Thu Jun 28 17:36:52 PKT 2018::		DELETE MEDICINES		::		awais
+
+		Thu Jun 28 17:39:19 PKT 2018::		DELETE DOCTORS		::		awais
+
+		Wed Jul 04 06:23:00 PKT 2018::		RESET TOKEN'S		::		awais
+
+		Wed Jul 04 08:53:46 PKT 2018::		SALE MEDICINES		::		awais
+
+		Wed Jul 04 08:58:12 PKT 2018::		BOOK TOKEN'S		::		awais
+
+		Thu Apr 30 04:53:05 PKT 2020::		RESET TOKEN'S		::		awais
+
+		Thu Apr 30 04:53:20 PKT 2020::		RESET TOKEN'S		::		awais
+
+		Thu Apr 30 04:53:43 PKT 2020::		RESET TOKEN'S		::		awais

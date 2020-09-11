@@ -1,0 +1,4 @@
+Ali,35,EE-11,UAE,9:00am-9:00pm ,50000.0,not available,guard
+ahmad,33,EE-12,karachi,9:00am-9:00pm,10000.0,available,worker
+umer,32,EE-13,rawalpindi,9:00am-9:00pm,150000.0,available,cleaner
+nouman,31,EE-14,gujrat,9:00am-9:00pm,10000.0,available,guider

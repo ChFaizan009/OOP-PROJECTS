@@ -1,0 +1,5 @@
+usman,PP-101,29,mandi,eye failure,R-101,W-101,good
+ali,PP-102,25,lahore,Nose failure,R-102,W-101,poor
+akbar,PP-103,27,Karachi,Brain failure,R-103,W-101,Good
+ahmed,PP-104,37,islamabad,Ear failure,R-104,W-101,v.poor
+Qamar,PP-105,35,lahore,leg fault,R-105,W-101,good

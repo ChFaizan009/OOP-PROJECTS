@@ -1,0 +1,5 @@
+E-101,avaliable,WARD-E1,Emergency Room
+W-101,avaliable,WARD-W1,Waiting Room
+P-101,avaliable,WARD-P1,Patient Room
+I-101,avaliable,WARD-I1,ICU Room
+P-101,avaliable,WARD-P1,Patient Room
